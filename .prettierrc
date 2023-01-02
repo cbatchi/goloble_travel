@@ -1,0 +1,6 @@
+{
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "semi": true,
+  "trailingComma": "es5"
+}
